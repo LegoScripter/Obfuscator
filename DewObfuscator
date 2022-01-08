@@ -1,3 +1,3 @@
-if _G.DexMessage == "DEX WAS HERE!" and _G.Key == "DexWareIsTrash" and _G.Script == "Dex Ware" then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LegoScripter/DexWare/main/Source", true))()
+if _G.DexMessage == "DEX WAS HERE!" and _G.Key == "DexWareV1.3" and _G.Script == "Dex Ware" then
+https://raw.githubusercontent.com/LegoScripter/AmongUs/main/Source
 end
