@@ -1,3 +1,3 @@
-if _G.DexMessage == "DEX WAS HERE!" and _G.Key == "FWAGWAGDSFGEWRSGDSG" and _G.Script == "Dex Ware" then
+if _G.DexMessage == "DEX WAS HERE!" and _G.Key == "DexWareIsTrash" and _G.Script == "Dex Ware" then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LegoScripter/DexWare/main/Source", true))()
 end
